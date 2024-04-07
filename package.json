@@ -1,0 +1,14 @@
+{
+  "name": "playwright_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2",
+    "allure-commandline": "^2.27.0",
+    "allure-playwright": "^2.0.0-beta.24",
+    "prettier": "3.2.5"
+  },
+  "scripts": {},
+  "dependencies": {}
+}
